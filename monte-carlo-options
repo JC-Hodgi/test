@@ -1,6 +1,0 @@
-cd /home/user
-git init
-git remote add origin https://github.com/TON_USER/monte-carlo-options.git
-git add monte_carlo_options.py monte_carlo_options.png
-git commit -m "Add Monte Carlo European option pricing"
-git push -u origin main
